@@ -12,4 +12,4 @@ Boussole.js s'adresse aux développeurs et aux architectes SI qui doivent choisi
 
 ## What
 
-Boussole.js se présente sous la forme d'un questionnaire en ligne élaboré par une équipe hétérogène d'experts du développement Web front-end (développeurs & intégrateurs Web, UX/UI designers) et d'un alogrithme intelligent de recommandation de frameworks JavaScript.
+Boussole.js se présente sous la forme d'un questionnaire en ligne élaboré par une équipe hétérogène d'experts en développement Web front-end (développeurs & intégrateurs Web, UX/UI designers) et d'un alogrithme intelligent de recommandation de frameworks JavaScript.
