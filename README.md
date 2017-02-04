@@ -4,7 +4,7 @@ Trouvez rapidement, simplement et sereinement le framework JavaScript adapté à
 
 ## Why
 
-L'avènement des SPA (Single Page Applications) et l'adoption de JavaScript comme langage standard (avec HTML et CSS) de développement des applications Web front-end ont vu les technologies (libraries et frameworks) littéralement proliférer. Au point qu'il est très difficile aujourd'hui de faire son choix parmi la myriade de packages NPM, et ce, dans la plupart des domaines du développement logiciel moderne : approche/philosopie, testing, gestion des dépendances, module bundlers, linters, couverture de code, débogage, suivi d'analytics, etc.
+L'avènement des SPA (Single Page Applications) et l'adoption de JavaScript comme langage standard (avec HTML et CSS) dans le développement d'applications Web front-end ont vu les technologies (libraries et frameworks) littéralement proliférer. Au point qu'il est très difficile aujourd'hui de faire son choix parmi la myriade de packages NPM disponibles, dans la plupart des domaines du développement logiciel moderne : approche/philosopie, testing, gestion des dépendances, module bundlers, linters, couverture de code, débogage, suivi d'analytics, etc.
 
 ## How
 
