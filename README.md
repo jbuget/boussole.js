@@ -8,7 +8,7 @@ L'avènement des SPA (Single Page Applications) et l'adoption de JavaScript comm
 
 ## How
 
-Boussole.js s'adresse aux développeurs et aux architectes SI qui doivent choisir un framework Web JS en leur permettant de trouver rapidement et simplement la technologie la mieux adaptée à leur projet / contexte.
+Boussole.js s'adresse aux développeurs et aux architectes SI qui doivent choisir un framework Web JS en leur permettant de trouver rapidement et simplement la technologie la plus adaptée à leur projet / contexte.
 
 ## What
 
